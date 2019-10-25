@@ -1,0 +1,5 @@
+C:\Users\Bernadka\Documents\studia - II stopien\programowanie3\zajecia4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Bernadka\Documents\studia - II stopien\programowanie3\zajecia4\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Bernadka\Documents\studia - II stopien\programowanie3\zajecia4\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Bernadka\Documents\studia - II stopien\programowanie3\zajecia4\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Bernadka\Documents\studia - II stopien\programowanie3\zajecia4\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

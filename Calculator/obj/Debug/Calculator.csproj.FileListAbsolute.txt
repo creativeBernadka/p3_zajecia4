@@ -1,0 +1,5 @@
+C:\Users\Bernadka\Documents\studia - II stopien\programowanie3\zajecia4\Calculator\bin\Debug\Calculator.exe
+C:\Users\Bernadka\Documents\studia - II stopien\programowanie3\zajecia4\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Bernadka\Documents\studia - II stopien\programowanie3\zajecia4\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Bernadka\Documents\studia - II stopien\programowanie3\zajecia4\Calculator\obj\Debug\Calculator.exe
+C:\Users\Bernadka\Documents\studia - II stopien\programowanie3\zajecia4\Calculator\obj\Debug\Calculator.pdb
